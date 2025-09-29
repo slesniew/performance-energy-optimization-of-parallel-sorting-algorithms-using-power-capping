@@ -1,0 +1,11 @@
+build/
+archive_logs/
+logs/
+logs_analyzed/
+doc/
+.vscode/
+scripts/experiments/.venv
+cpu_params.txt
+default_limits_dump.txt
+scripts/experiments/.venv/*
+scripts/experiments/__pycache__/

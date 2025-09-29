@@ -1,0 +1,3 @@
+[submodule "tools/split"]
+	path = tools/split
+	url = https://projects.task.gda.pl/akrz/split.git

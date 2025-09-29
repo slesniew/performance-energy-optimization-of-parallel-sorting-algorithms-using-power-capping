@@ -1,0 +1,30 @@
+{
+    "sorting_algorithms": {
+        "parallel": [
+            "cs_parallel"
+        ]
+    },
+    "threads": [
+        "100%"
+
+    ],
+    "cores_type": [
+        "ONLY EFFICIENT",
+        "ONLY PERFORMANCE",
+        "50% PERFORMANCE",
+        "50% EFFICIENT 50% PERFORMANCE",
+        "100% EFFICIENT 100% PERFORMANCE"
+    ],
+    "input_size": [
+        "S",
+        "M"
+    ],
+    "input_type": [
+        "INT"
+    ],
+    "thread_affinity": [
+        "close",
+        "spread",
+        "master"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "sorting_algorithms": {
+        "parallel": [
+            "rs_parallel"
+        ]
+    },
+    "threads": [
+        "100%"
+    ],
+    "cores_type": [
+        "ONLY PERFORMANCE"
+    ],
+    "input_size": [
+        "S"
+    ],
+    "input_type": [
+        "INT"
+    ],
+    "thread_affinity": [
+        "close"
+    ]
+}
